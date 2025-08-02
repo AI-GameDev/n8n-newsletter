@@ -1,3 +1,8 @@
+---
+nav_order: 4
+title: n8n 워크플로우
+---
+
 ## 지피터스 n8n 접속 주소
 [n8n.io - Workflow Automation](https://gpters-n8n.org)
 
