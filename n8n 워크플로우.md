@@ -33,3 +33,6 @@ title: n8n 워크플로우
 
 ![](99%20Attachments/CleanShot%202025-08-02%20at%2004.40.00@2x.png)
 
+## 워크플로우 트리거 활성화
+
+![](99%20Attachments/CleanShot%202025-08-02%20at%2010.21.43@2x.png)
